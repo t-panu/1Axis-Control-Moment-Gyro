@@ -4,5 +4,5 @@
 ![Picture2](https://github.com/user-attachments/assets/d86d2f08-3f4b-41c2-9033-e1b2184d374a)
 ![Picture3](https://github.com/user-attachments/assets/2018ae5a-a5c8-46f8-a5f7-a2688ba9fc06)
 ## MOI Estimation (Z-axis)
-![Picture4](https://github.com/user-attachments/assets/ca97d5da-b9fb-47d6-978d-a95989533408)
-![Picture5](https://github.com/user-attachments/assets/2ece7539-1498-4c70-b497-79965cb5b33c)
+![Picture6](https://github.com/user-attachments/assets/f56a5c60-16a4-44bc-b885-06a2aa54e161)
+![Picture7](https://github.com/user-attachments/assets/ad7aed2b-d8b1-4a95-9e0b-95eb0e9a737d)
