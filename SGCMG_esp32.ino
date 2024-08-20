@@ -1,6 +1,7 @@
 //6301002810023 KMUTNB MAE
 //Phanuwat Thamnita
 //Prof. Suwat KUNTANAPREEDA
+//For WEMOS D1R32 (ESP32)
 
 //Libraries
 #include <Adafruit_MPU6050.h>
